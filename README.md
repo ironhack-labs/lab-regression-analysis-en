@@ -10,7 +10,7 @@ Regression analysis is one of the most fundamental and powerful algorithms used 
 
 ## Getting Started
 
-Open the file `lab-regression-analysis.ipynb` in the `your-code` directory. Read the question carefully and provide thoughtful solutions in the space provided. The dataset for Challenge 2, `vehicles.csv`, is in the root of this repository.
+Go to the folder lab-regression-analysis in the GitHub repo. Open the file `lab-regression-analysis.ipynb` in the `your-code` directory. Read the question carefully and provide thoughtful solutions in the space provided. The datasets to be used in the exercises has been provided on GitHub here.
 
 Happy Learning!
 
